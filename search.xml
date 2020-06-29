@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/06/29/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>日记2020-06-29</title>
+    <url>/2020/06/30/diary/Diary20200629/</url>
+    <content><![CDATA[<h1 id="自律，专业，自负"><a href="#自律，专业，自负" class="headerlink" title="自律，专业，自负"></a>自律，专业，自负</h1><p>今天开始，强制要求自己每天学习，做笔记。回首过去的3年，几乎什么都没学到，甚至比毕业时还差。在Sigma这种环境下，实在没法通过项目、前辈让自己有所长进，只能靠自学。这个环境，死气沉沉，不上进，不创新，不适合我。为了个人的发展，我必须自强不息，蓄势待发，有朝一日，我定要离开这里。尽管别的地方充满了不确定性，但Sigma有越来越差的确定性。</p>
+<p>今天，匆匆忙地定下大概的学习目标：</p>
+<ul>
+<li>渲染</li>
+<li>Unity</li>
+<li>Unreal Engine</li>
+<li>客户端框架</li>
+<li>C#</li>
+<li>C++</li>
+<li>lua</li>
+<li>xlua</li>
+<li>sluaunreal</li>
+<li>ECS</li>
+<li>技术博客</li>
+</ul>
+<p>虽然是个粗糙的开头，但有总比没有好，我迈出了第一步，就会有第二步，第三步，自勉。</p>
+<p>研究了一晚上的Unity学习路线，最终还是以官方的教学视频、文档为主，先补Unity基础，后面再提升Lua和C#。</p>
+<p>说实话，Unity官方的视频，看起来涵盖面很广，但对于新手来说，五花八门，眼花缭乱，根本整理不出一条清晰的路线：我先看哪个视频，再看哪个视频。于是去知乎搜了一圈，企图搜到某个宝典，能跟传统的课本一样，一步一步、由浅入深地教我系统地学Unity。除了宣雨松的《Unity 3D游戏开发（第2版）》，没有别的好书了。但这本书我也看过一二，并不深入，也不够系统，只能算简单的入门。</p>
+<p>于是我重新整理思路。Unity说到底是一个工具，不是一项技术，工具的话，按照官方使用手册，把工具的每个功能都学到了就行，或许不存在什么系统性，而完整性，我看官方手册就足以保证。并且，Unity更新实在太快了，知乎推荐的好几本书，都跟不上现在的Unity版本，那买书的意义就不大了。</p>
+<p>那我所迷惑的系统性究竟是什么？其实是对游戏开发的系统理解。那这样就清楚很多了，我只要看看游戏开发相关的书就行了，这是与引擎独立的哲学、理念，暂时应该还不太需要。</p>
+<p>而编程语言，目前用到的有Lua、C#，都只掌握皮毛，需要加强。</p>
+<p>于是决定了初步的路线：</p>
+<ul>
+<li>用宣雨松的书重新入门Unity</li>
+<li>跟着Unity官方视频学习，阅读Unity官方手册</li>
+<li>后面加强C#和Lua</li>
+</ul>
+<p>没有写日记的习惯，第一篇日记就这样吧，很晚了。以后再慢慢改进文笔。</p>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+</search>
